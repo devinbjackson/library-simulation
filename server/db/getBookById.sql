@@ -1,0 +1,1 @@
+SELECT * FROM library_books WHERE book_id=$1;

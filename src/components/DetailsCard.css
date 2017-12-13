@@ -1,0 +1,16 @@
+.DetailsCard{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    margin: 10px;
+}
+
+.book-image{
+    height:200px;
+    width: 150px;
+    float: left;
+}
+
+.right-section{
+    float: right;
+}

@@ -1,0 +1,28 @@
+.NavBar{
+    width: 100vw;
+    height: 80px;
+    position: fixed;
+    top: 0px;
+}
+ul {
+    list-style-type: none;
+    margin-top:20px;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:visited{
+    color: #C6B38E;
+}

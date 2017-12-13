@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+.flex-centered{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.vertical{
+flex-direction: column;
+}
+.container{
+  border-radius: 5px;
+  width: 80%;
+}
+.cream-bg{
+  background-color: #FBFFE6;
+  color: black;
+}
+.tan-bg{
+  background-color: #C6B38E;
+  color: #4E1E29;
+}
+.tan{
+  color: #C6B38E;
+}
+.maroon-bg{
+  background-color: #4E1E29;
+  color: white;
+}
+.maroon{
+  color: #4E1E29;
+}
+.dark-bg{
+  background-color: #242325;
+  color: white;
+}
+.black-bg{
+  background-color: #020402;
+  color: #C6B38E;
+}
+.red-bg{
+  background-color: #A52422;
+  color: white;
+}
